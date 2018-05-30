@@ -1,4 +1,4 @@
-# TF Lite Android App
+# TF Lite Android App : Live Image classifier (NNAPI enabled)
 
 This app is a modification of Google's tensor flow for Poets2 (tflite version) : https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2-tflite/index.html#0
 
