@@ -1,4 +1,10 @@
 main ()
 {
 if (1) {print("newfile");}
+
+if (1) 
+print("hello");
+else 
+print("hi");
+
 }
